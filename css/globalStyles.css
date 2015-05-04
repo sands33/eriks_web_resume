@@ -56,7 +56,8 @@ ul li {
 }
 
 #availableWhen {
-    margin-left: 5%;
+    margin-left: 2%;
+    text-indent: 0px;
 }
 
 article {

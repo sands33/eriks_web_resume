@@ -5,17 +5,31 @@ header {
     
 }
 
-.boldBullet {
+p {
+    text-indent: 30px;
+    padding: 0 2% 0 2%;
+    line-height: 30px;
+}
+
+.bold {
     font-weight: 900;
 }
 
+.ital {
+    font-style: italic;
+    font-size: 1.1em;
+}
+
 header h1{
-    margin-left: 35%
+    margin-left: 35%;
 }
 
 header h3 {
     margin-left: 35%;
-    
+}
+
+header h4 {
+    margin-left: 35%;
 }
 #contentWrapper{
     
@@ -42,13 +56,53 @@ ul li {
 }
 
 #availableWhen {
-    margin-left: 5%;
+    margin-left: 2%;
+    text-indent: 0px;
 }
 
 article {
-    margin-top: 5%
+    margin-top: 5%;
+}
+
+articleCL {
+    margin-top: 2%;
+}
+
+.column {
+    
+    width: 15%;
+    margin: 2%;
+    padding: 2%;
+    float: right;
+    clear: none;
+}
+
+.columnLast{
+    
+    width: 15%;
+    margin: 2%;
+    padding: 2%;
+    float: right;
+    clear: both;
+}
+
+#signature h3{ 
+    font-family: cursive;
+    padding-left: 5%;
+}
+
+#signed h2 {
+    font-family: cursive;
+    font-size: 2em;
+    padding-left: 7%;
+}
+
+#phoneMe {
+}
+
+#emailMe {
 }
 
 footer {
-    margin-left: 35%;
+    margin-left: 40%;
 }

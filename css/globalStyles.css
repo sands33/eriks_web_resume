@@ -1,0 +1,54 @@
+
+
+header {
+    padding-bottom: 2%;
+    
+}
+
+.boldBullet {
+    font-weight: 900;
+}
+
+header h1{
+    margin-left: 35%
+}
+
+header h3 {
+    margin-left: 35%;
+    
+}
+#contentWrapper{
+    
+    padding-bottom: 5%;
+    margin-left: 5%;
+    border-top-color: black;
+    border-top-style: solid;
+}
+
+#aboveFold {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    padding-bottom: 2%;
+}
+
+ul li {
+    margin-top: 1%;
+}
+
+#belowFold {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    padding-bottom: 2%;
+}
+
+#availableWhen {
+    margin-left: 5%;
+}
+
+article {
+    margin-top: 5%
+}
+
+footer {
+    margin-left: 35%;
+}

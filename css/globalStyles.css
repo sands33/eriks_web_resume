@@ -39,6 +39,15 @@ header h4 {
     border-top-style: solid;
 }
 
+#contentWrapperGA{
+    
+    padding-bottom: 0%;
+    margin-left: 0%;
+    border-top-color: black;
+    border-top-style: solid;
+    background-color: gainsboro;
+}
+
 #aboveFold {
     border-bottom-style: solid;
     border-bottom-color: black;
@@ -47,6 +56,12 @@ header h4 {
 
 ul li {
     margin-top: 1%;
+}
+
+#thumbWrapper img {
+    padding: 5%;
+    margin: 1% 5% 1% 5%;
+    max-width: 80%;
 }
 
 #belowFold {
